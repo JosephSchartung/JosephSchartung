@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Schartung</h1>
 <h3 align="center">Full-Stack Developer from Washington.</h3>
 
-- 🌱 I’m currently learning **Docker, PostgreSQ**
+- 🌱 I’m currently learning **Docker, PostgreSQL**
 
 - 💬 Ask me about any of the languages and tools below
 
