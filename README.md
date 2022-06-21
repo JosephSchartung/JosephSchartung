@@ -4,6 +4,7 @@ Full Stack Web Developer
 * 🌍  I'm based in Washington
 * ✉️  You can contact me at [joseph.schartung@gmail.com](mailto:joseph.schartung@gmail.com)
 * 🧠  I'm learning Docker and Next.js
+* 🚀  I'm currently working on [What's For Dinner](http://github.com/JosephSchartung/whats-for-dinner)
 
 ### Skills
 
