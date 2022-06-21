@@ -3,7 +3,7 @@ Full Stack Web Developer
 ------------------------
 * 🌍  I'm based in Washington
 * ✉️  You can contact me at [joseph.schartung@gmail.com](mailto:joseph.schartung@gmail.com)
-* 🧠  I'm learning Docker
+* 🧠  I'm learning Docker and Next.js
 
 ### Skills
 
